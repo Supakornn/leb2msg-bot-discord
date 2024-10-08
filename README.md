@@ -9,7 +9,7 @@ run command for install package : ``` npm install ```
 ```
 KMUTTID=
 PASSWORD=
-DISCORDWEBHOOK=
+LINE_TOKEN=
 ```
 
 ## run project
